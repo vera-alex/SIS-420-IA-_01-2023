@@ -1,1 +1,3 @@
-# SIS-420-IA-_01-2023
+# Alumno: Vera Pinto Alex Jorge Abel
+Carrera: Ingeniería de Sistemas
+CU: 35-4781
